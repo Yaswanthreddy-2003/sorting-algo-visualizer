@@ -27,8 +27,15 @@ This project is aimed at **educational purposes**, helping users better understa
 
 ### 1. Install dependencies
 
-```bash
-npm install
+### npm install
+
+### 2.Start the app
+
+### npm start
+
+Once the server is running, open your browser and go to:
+
+http://localhost:3000
 
 
 
